@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixelmatic", "Pixelmatic.csproj", "{FA47EBAD-C3B7-47C8-9DFF-EC01DB4164E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA47EBAD-C3B7-47C8-9DFF-EC01DB4164E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA47EBAD-C3B7-47C8-9DFF-EC01DB4164E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA47EBAD-C3B7-47C8-9DFF-EC01DB4164E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA47EBAD-C3B7-47C8-9DFF-EC01DB4164E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {103D8E76-7D69-4C83-8F4F-2CE568253BA8}
+	EndGlobalSection
+EndGlobal
